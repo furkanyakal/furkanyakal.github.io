@@ -2,33 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Informatics M.Sc. Candidate
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: me.JPG
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently pursuing an M.Sc. in Informatics with a specialization in Engineering Software-Intensive Systems at [Technical University of Munich](https://www.tum.de/en/). My academic foundation was established at [Koç University](https://www.ku.edu.tr/en/) where I completed dual B.Sc. degrees in Industrial Engineering and Computer Science with a track program in Artificial Intelligence, graduating Magna Cum Laude with honors.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Alongside my studies, I have gained valuable professional experience at leading organizations including [BMW Group](https://www.bmwgroup.com/en.html) and [EY](https://www.ey.com/), where I've contributed to diverse projects spanning data analytics, software engineering, and process optimization. My work encompasses designing scalable data pipelines, engineering cloud environments, developing web applications, and implementing full-stack solutions that bridge theoretical concepts with practical business challenges.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my master's thesis, "A Resilient Matrix Assembly Layout Design for Mixed-Model Vehicle Production," I formulated one of the first stochastic optimization models to address task-level disruptions in automotive manufacturing. This work contributed to the literature by introducing the Resilient Matrix Assembly Layout Problem, demonstrating significant reconfiguration cost reductions compared to traditional static models and highlighting the value of proactive disruption-aware planning.
+
+My interest lies in combining analytical problem-solving with a strong technical background to create meaningful and lasting impact.
