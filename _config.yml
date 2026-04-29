@@ -9,9 +9,9 @@ last_name: Yakal
 contact_note: >
   You can reach me via email or LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Data Analytics and Software Engineering professional with expertise in cloud computing, machine learning, and business intelligence. M.Sc. in Informatics from Technical University of Munich.
+  Software and data engineer working at the intersection of AI, data, and optimization. M.Sc. in Informatics from Technical University of Munich, with experience at BMW Group and EY.
 footer_text:
-keywords: furkan yakal, data analytics, software engineering, machine learning, cloud computing, aws, python, java, informatics, technical university munich, bmw # add your own keywords or leave empty
+keywords: furkan yakal, software engineer, data engineer, applied ai, machine learning, optimization, stochastic optimization, cloud computing, aws, python, java, informatics, m.sc, technical university munich, tum, bmw group, ey, koç university, industrial engineering, computer science # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧑‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
