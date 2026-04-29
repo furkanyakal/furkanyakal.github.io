@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as Software Engineering Intern in Web & Commerce Analytics at [BMW Group](https://www.bmwgroup.com/en.html), Munich.
+Started as Software Engineering Intern in Web & Commerce Analytics team at [BMW Group](https://www.bmwgroup.com/en.html), Munich.

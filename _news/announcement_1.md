@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as Data Analytics Working Student in Strategic Operational Risk at [BMW Group](https://www.bmwgroup.com/en.html), Munich.
+Started as Data Engineering Working Student in Strategic Operational Risk team at [BMW Group](https://www.bmwgroup.com/en.html), Munich.

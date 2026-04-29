@@ -44,9 +44,7 @@
   --global-danger-block-title: #c00;
 
   #light-toggle-system {
-    padding-left: 10px;
-    padding-top: 12px;
-    display: block;
+    display: none;
   }
 
   #light-toggle-dark {
@@ -54,7 +52,9 @@
   }
 
   #light-toggle-light {
-    display: none;
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
   }
 
   .only-light {
@@ -158,4 +158,9 @@ html[data-theme-setting="light"] {
     padding-top: 12px;
     display: block;
   }
+}
+
+// The system toggle icon has been removed from the navbar; this rule is a safety net.
+#light-toggle-system {
+  display: none !important;
 }
